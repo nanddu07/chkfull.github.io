@@ -15,7 +15,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="author" content="ThiagoNaVoiz">
+    <meta name="author" content="anonimo">
     <title>CD7 NO TOPO</title>
     <link rel="icon" type="image/png" sizes="16x16" href="../../bootstraplogos.com/wp-content/uploads/edd/2018/04/logo-3.html">
     <link href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700,700i%7CComfortaa:300,400,700" rel="stylesheet">
